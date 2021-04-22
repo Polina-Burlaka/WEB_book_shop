@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+wikipedia-api
+wikipedia
+requests
+flask-login
+sqlalchemy-serializer
+flask-wtf
